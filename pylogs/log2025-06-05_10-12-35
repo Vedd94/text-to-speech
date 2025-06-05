@@ -1,0 +1,7 @@
+05-06-2025 10:12 WARNING _internal ====>  * Debugger is active!
+05-06-2025 10:12 INFO _internal ====>  * Debugger PIN: 541-276-849
+05-06-2025 10:12 INFO _internal ====> 127.0.0.1 - - [05/Jun/2025 10:12:39] "GET / HTTP/1.1" 200 -
+05-06-2025 10:12 INFO _internal ====> 127.0.0.1 - - [05/Jun/2025 10:12:40] "GET / HTTP/1.1" 200 -
+05-06-2025 10:12 INFO _internal ====> 127.0.0.1 - - [05/Jun/2025 10:12:42] "GET / HTTP/1.1" 200 -
+05-06-2025 10:12 INFO _internal ====> 127.0.0.1 - - [05/Jun/2025 10:12:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+05-06-2025 10:13 INFO _internal ====>  * Detected change in 'D:\\tech_neuron\\text-to-speech\\text_to_speech\\components\\textTospeech.py', reloading
